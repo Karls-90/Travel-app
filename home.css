@@ -1,0 +1,27 @@
+body{
+    padding: 20px;
+}
+
+h1{
+ /* color: #2e6f95; */
+}
+
+table{
+    border-collapse: collapse;
+    border: solid 1px black;
+    width: 80%;
+}
+
+th, td{
+    border: solid 1px; 
+    padding: 5px;
+}
+
+tr:nth-child(odd){
+    background-color: #d8e2dc;
+}
+
+tr:nth-child(even){
+    background-color: #caf0f8;
+}
+

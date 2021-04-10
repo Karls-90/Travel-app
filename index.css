@@ -1,0 +1,45 @@
+body{
+    background-color: darkkhaki;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.card{
+    height: 500px;
+    width: 400px;
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+.card-image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+
+.card-input{
+width: 70%;
+height: 40px;
+margin-top: 10px;
+padding-left: 20px;
+color: white;
+font-size: 15px;
+/* border-radius: 10px; */
+
+}
+
+.card-button{
+width: 310px;
+height: 40px;
+background-color: #2e6f95;
+color: white;
+margin-top: 10px;
+border: 0px;
+
+}
